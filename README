@@ -1,3 +1,14 @@
+NETHACK
+-------
 
+Initial import is from the 3.4.3 tgz file from sf.net (see archive/).
+
+This fork's purpose is to provide a sensible scripting interface for AI scripting.
+
+
+Copyright
+---------
+
+All original code's copyright is held by their respective owners.
 
 (C) 2011, Bjoern Rennhak
